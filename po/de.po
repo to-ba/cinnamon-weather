@@ -26,7 +26,7 @@ msgstr "Zum Öffnen klicken"
 
 #: applet.js:242
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 #: applet.js:434
 msgid "Sunrise"
